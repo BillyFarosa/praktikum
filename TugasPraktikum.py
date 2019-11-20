@@ -5,9 +5,7 @@ nilaiuts1=[]
 nilaiuas1=[]
 akhir1=[]
 jawab = 'ya'
-hitung = 0
 while jawab =='ya':
-    hitung += 1
     nama = input("Nama  : ")
     kelas = input("NIM  : ")
     nilaitugas = float(input("Nilai Tugas    :"))
