@@ -1,4 +1,4 @@
-  Latihan
+  LATIHAN 1
   
 ![Tanpa judul](https://user-images.githubusercontent.com/57003140/68583999-0eaa8480-04b1-11ea-8d72-138bd8f443e8.png)
 
