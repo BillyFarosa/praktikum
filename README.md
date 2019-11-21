@@ -10,4 +10,16 @@
   TUGAS PRAKTIKUM
   
   ![125](https://user-images.githubusercontent.com/57003140/69214937-e569b280-0b9a-11ea-8591-5541361e9f55.png)
+  
+  PENJELASAN PROGRAM
+  
+  1. Program meminta memasukan data terlebih dahulu.
+  2. Masukan data seperti Nama,Nim,Nilai Tugas,Nilai UTS,Nilai UAS (Masukan semua nilai dengan angka).
+  3. Lalu program meminta untuk menambah data atau tidak,(pilih "ya" untuk menambah data, pilih "tidak" untuk langsung menampilkan table data dan hasil nilai akhir.
+  4. Hasil nilai akhir diambil dari : Nilai Tugas = 30%, Nilai UTS = 35%, Nilai UAS = 35%
+  5. Program akan menampilkan semua data yang di input,bisa satu,dua atau lebih datanya.
+  
+  FLOWCHART
+  
+  
 
