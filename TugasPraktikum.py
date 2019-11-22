@@ -8,9 +8,9 @@ jawab = 'ya'
 while jawab =='ya':
     nama = input("Nama  : ")
     kelas = input("NIM  : ")
-    nilaitugas = float(input("Nilai Tugas    :"))
-    nilaiuts = float(input("Nilai UTS :"))
-    nilaiuas = float(input("Nilai UAS :"))
+    nilaitugas = int(input("Nilai Tugas    :"))
+    nilaiuts = int(input("Nilai UTS :"))
+    nilaiuas = int(input("Nilai UAS :"))
     akhir = (nilaitugas)*30/100 + (nilaiuts)*35/100 + (nilaiuas)*35/100
     
     nama1.append(nama)
